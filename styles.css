@@ -7,7 +7,7 @@ body {
 	background-color:blue;
 	margin:10em;
 	border: 10px solid black;
-	background-image:url("parchment.jpg");
+	background-image:url("img/parchment.jpg");
 	background-repeat:repeat-y;
 }
 a {
@@ -46,6 +46,10 @@ h1{
 }
 
 #wedding div img{
+	height:30em;
+}
+
+#future div img{
 	height:30em;
 }
 
